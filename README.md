@@ -5,7 +5,7 @@ Welcome to my github, I am a student developer with an interest in machine learn
 ## Soar Learning (Private)
 An Ionic React project designed for student pilots to learn all they need to for the five mandatory theoretical tests to get their microlight license. [Link](https://google.com) 
 
-## Text Recognition/
+## Text Recognition
 This text recognition software was originally designed for my A-Level CS project. It uses raw HTML/CSS/JS for both the neural network and text recognition.
   - [Text Recognition Website Application](https://github.com/JosephReece/Text-Recognition)
   - [Training Ground](https://github.com/JosephReece/OCR-Training-Ground)
